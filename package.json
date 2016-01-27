@@ -1,0 +1,12 @@
+{
+    "name": "who-says-what",
+    "private": true,
+    "dependencies": {
+        "highland": "2.6.x",
+        "request": "2.67.x",
+        "csv-write-stream": "1.0.x"
+    },
+    "scripts": {
+        "start": "node who-says-what"
+    }
+}
