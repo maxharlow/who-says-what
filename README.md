@@ -3,7 +3,7 @@ Who Says What?
 
 Get someone's entire Twitter timeline as a spreadsheet.
 
-Part of a set of Twitter archiving tools, also including [Who Said That?] (https://github.com/maxharlow/who-said-that) and [Who Follows Who?] (https://github.com/maxharlow/who-follows-who).
+Part of a set of Twitter tools, also including [Who Said That?] (https://github.com/maxharlow/who-said-that) and [Who Follows Who?] (https://github.com/maxharlow/who-follows-who).
 
 Requires [Node] (https://nodejs.org/).
 
