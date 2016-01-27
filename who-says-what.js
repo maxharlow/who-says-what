@@ -57,6 +57,5 @@ Highland([Config.username])
     .map(queryTwitterTimeline)
     .flatMap(Highland.wrapCallback(doTwitterTimeline))
     .flatten()
-    // .toArray(console.log) //xxx
     .pipe(CSVWriter())
     .pipe(FS.createWriteStream('results.csv'))
